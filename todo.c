@@ -22,7 +22,7 @@ void displayMenu()
     printf("3. Mark task as completed\n");
     printf("4. Delete a task\n");
     printf("5. Exit\n");
-    printf("==============================\n");
+    printf("=== ===========================\n");
     printf("Enter your choice: ");
 }
 
